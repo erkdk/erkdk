@@ -5,5 +5,3 @@ Constantly learning and exploring new technologies to expand my skill set and bu
 <div align="center">
 <h4 align="center">Visit my other GitHub: <b><i><a href="https://github.com/aadarKdk">aadarKdk</a></i></b></h4>
 
-<h2 align="center">Connect with Me</h2>
-
