@@ -2,7 +2,7 @@
 
 ## DevOps | Cloud | Automation
 
-Registered Electronics, Communication, and Information Engineer focused on DevOps, cloud infrastructure, and automation. I build and manage CI/CD pipelines, containerized applications, and infrastructure using modern DevOps tools.
+Registered Electronics, Communication, and Information Engineer focused on DevOps, cloud infrastructure, and automation. I build and manage CI/CD pipelines, containerized applications, and infrastructure using modern DevSecOps tools.
 
 ---
 
