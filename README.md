@@ -14,7 +14,8 @@ Registered Electronics, Communication, and Information Engineer focused on DevOp
 * **CI/CD:** Jenkins, GitHub Actions
 * **Containerization:** Docker, Docker Compose
 * **Cloud:** AWS
-* **IaC:** Terraform, Ansible
+* * **Configuration Management:** Ansible
+* **IaC:** Terraform
 * **Tools:** VS Code
 
 ##  DevOps Learning Journey
