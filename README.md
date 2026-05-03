@@ -2,7 +2,10 @@
 
 ## DevOps | Cloud | Automation
 
-Registered Electronics, Communication, and Information Engineer focused on DevOps, cloud infrastructure, and automation. I build and manage CI/CD pipelines, containerized applications, and infrastructure using modern DevSecOps tools.
+Registered Electronics, Communication, and Information Engineer under Nepal Engineering Council (NEC), focused on DevSecOps, Cloud Infrastructure, and Automation.
+I build and document hands-on DevSecOps labs and practice work, available in my GitHub repository (devsecops-journey).
+My focus includes CI/CD pipelines, containerization, infrastructure as code, and Linux-based environments.
+Currently strengthening my understanding of DevSecOps practices, including security integration, monitoring, and infrastructure concepts.
 
 ---
 
