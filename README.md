@@ -2,10 +2,11 @@
 
 ## DevOps | Cloud | Automation
 
-Registered Electronics, Communication, and Information Engineer under Nepal Engineering Council (NEC), focused on DevSecOps, Cloud Infrastructure, and Automation.
-I build and document hands-on DevSecOps labs and practice work, available in my GitHub repository (devsecops-journey).
-My focus includes CI/CD pipelines, containerization, infrastructure as code, and Linux-based environments.
-Currently strengthening my understanding of DevSecOps practices, including security integration, monitoring, and infrastructure concepts.
+I build and document hands-on DevSecOps labs and practice work in my GitHub repository [(devsecops-journey)](https://github.com/erkdk/devops-journey).
+
+Focus areas include CI/CD, containerization, infrastructure as code, and Linux systems.
+
+Currently strengthening DevSecOps fundamentals, including security, monitoring, and infrastructure concepts.
 
 ---
 
