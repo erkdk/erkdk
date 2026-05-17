@@ -2,7 +2,7 @@
 
 ## DevOps | Cloud | Automation
 
-I build and document hands-on DevSecOps labs and practice work in my GitHub repository [(devsecops-journey)](https://github.com/erkdk/devops-journey).
+I build and document hands-on DevSecOps labs and practice work in my GitHub repository [(systems-engineering-journey)](https://github.com/erkdk/systems-engineering-journey).
 
 Focus areas include CI/CD, containerization, infrastructure as code, and Linux systems.
 
@@ -28,7 +28,7 @@ Currently strengthening DevSecOps fundamentals, including security, monitoring, 
 ##  DevOps Learning Journey
 
 I actively document my hands-on DevOps learning and experiments:
-https://github.com/erkdk/devops-journey
+https://github.com/erkdk/systems-engineering-journey
 
 ---
 ## Connect with Me
